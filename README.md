@@ -8,6 +8,8 @@
 
 
 ## Installation Instructions:
-**1.** Clone this Repository
-**2.** Extract Zip file
+**1.** Clone this Repository  
+**2.** Download and extract zip file  
+**3.** Open a Python IDE of choice  
+**4.** Run `a2_ui.py`  
 
