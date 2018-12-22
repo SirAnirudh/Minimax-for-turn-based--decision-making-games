@@ -1,4 +1,4 @@
-# Minimax for turn based, decision making games
+# Minimax Alogorithm
 
 # File Contents:
 Computer Strategies - Various strategies the computer can use (including Mini Max) against the opponent. The mini max strategy will guarentee a win or at the least, a tie for the computer.
