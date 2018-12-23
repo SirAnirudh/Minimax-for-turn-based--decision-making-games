@@ -1,8 +1,12 @@
 # Minimax Alogorithm
 
 # File Contents:
-Computer Strategies - Various strategies the computer can use (including Mini Max) against the opponent. The mini max strategy will guarentee a win or at the least, a tie for the computer. <br/>
-Sample Game: An animated turn based, pokemon type duelling game with (player vs player, computer vs player and computer vs computer options)
+Computer Strategies: <br/>
+- contains the code for the minimax algorithm </br>
+- implemented in two different ways (recursive and iterative) <br/>
+
+Sample Game:  </br>
+- An animated turn based, pokemon type duelling game with (player vs player, computer vs player and computer vs computer options)
 
 
 # Instructions:
